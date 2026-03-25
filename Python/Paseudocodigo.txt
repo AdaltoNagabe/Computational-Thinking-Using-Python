@@ -1,0 +1,30 @@
+inicio
+
+   escreva("Digite o primeiro número: ")
+   leia(nota1)
+   escreva("Digite o segundo número: ")
+   leia(nota2)
+   escreva("Digite o terceiro número: ")
+   leia(nota3)
+   
+	menor = nota1
+
+		Se nota2 < menor então
+			menor ← nota2
+		fimSe
+
+		Se nota3 < menor então
+			menor ← nota3
+		FimSe
+
+		somanotas = nota1 + nota2 + nota3
+		notavalida = somanotas - menor
+        	media = notavalida/2
+
+        		Se media >=6 então
+				escreva("APROVADO")
+			senão
+				escreva("EXAME")
+			fimse	
+	
+fim

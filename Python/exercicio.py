@@ -1,0 +1,31 @@
+a = 11
+b = 3
+a + b * a
+print("A")
+print(a + b * a)
+print("B")
+print(b * a + b)
+print("C")
+print(a // b)
+print("D")
+print(b % a)
+print("E")
+print(a % b)
+print("F")
+print(b // a)
+print("G")
+print(b - a / b)
+print("H")
+print(a / b - a * b)
+print("I")
+print(10 + a % b)
+print("J")
+print(10 - b // a)
+print("K")
+print(b // a -50)
+print("L")
+print(a + b % a - a // b * 2)
+print("M")
+print(a * (b + a) - (a - b) / 2)
+
+

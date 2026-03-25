@@ -1,0 +1,15 @@
+x = True
+y = False
+print("A - ", x and y)
+print("B - ", x or y)
+print("C - ", x and y or x)
+print("D - ", x or y or x)
+print("E - ", not(x or not y))
+print("F - ", not(not x and not y))
+print("G - ", not(not x and not y))
+print("H - ", not x and y)
+print("I - ", not(x and y))
+print("J - ", not x and y or x)
+print("K - ", not(x and y) and y)
+print("L - ", x and y or y and not x)
+print("M - ", not(x or y and y or y))
