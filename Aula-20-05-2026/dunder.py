@@ -1,0 +1,1 @@
+print(f'estou rodando o modulo {__name__}')
