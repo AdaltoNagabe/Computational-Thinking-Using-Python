@@ -1,0 +1,37 @@
+[
+    {
+        "nome": "The Shawshank Redemption",
+        "ano": 1994,
+        "notaImdb": 9.3
+    },
+    {
+        "nome": "The Godfather",
+        "ano": 1972,
+        "notaImdb": 9.2
+    },
+    {
+        "nome": "The Dark Knight",
+        "ano": 2008,
+        "notaImdb": 9.0
+    },
+    {
+        "nome": "The Godfather Part II",
+        "ano": 1974,
+        "notaImdb": 9.0
+    },
+    {
+        "nome": "12 Angry Men",
+        "ano": 1957,
+        "notaImdb": 9.0
+    },
+    {
+        "nome": "Schindler's List",
+        "ano": 1993,
+        "notaImdb": 9.0
+    },
+    {
+        "nome": "The Lord of the Rings: The Return of the King",
+        "ano": 2003,
+        "notaImdb": 9.0
+    }
+]
